@@ -29,7 +29,7 @@ Le dataset contient des mesures de processus industriel et des étiquettes de d�
 ## Instructions pour exécuter le notebook
 1. Cloner le repo :
 ```bash
-git clone https://github.com/votre-utilisateur/AI4I_2020_EDA.git
+git clone https://github.com/anbialek/IndustrialMachineFailureDataAnalysis.git
 ```
 2. Installer les dépendances :
 ```bash
